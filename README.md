@@ -1,34 +1,47 @@
-# Suryansh Pushpkar | Associate Software Engineer @ Webkorps 🏢
+# <img src="https://media.giphy.com/media/hvRJCLzPaklf2/giphy.gif" width="28"> Suryansh Pushpkar | Associate Software Engineer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active%20Contributor-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Indore%2C%20India-orange?style=flat-square" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0052cc&height=120&section=header&text=Building%20at%20Webkorps%20🚀&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
-### 🛠 Professional Expertise
-I am focused on building scalable, high-performance backend systems and enterprise-grade applications. Currently, my work revolves around the **Java Ecosystem** and **Modern Web Architectures**.
-
-- **Languages:** Java (Core & Advanced), TypeScript, SQL
-- **Frameworks:** Spring Boot, Microservices, Spring Security, React.js
-- **Tools & Infrastructure:** Docker, Git, MySQL, Maven
-- **Core Competencies:** RESTful API Design, Database Optimization, System Architecture
-
----
-
-### 📈 Work Contribution Stats
+### 🛠 Professional Arsenal
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryansh-pushpkar&show_icons=true&theme=transparent&border_color=333&text_color=555" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,react,ts,docker,kubernetes,git,linux&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Collaboration
-- 📬 **Work Email:** [Your-Work-Email]@webkorps.com
-- 🕒 **Active Hours:** 10:00 AM – 7:00 PM (IST)
-- 🔗 **Personal Portfolio:** [Suryansh2602](https://github.com/Suryansh2602)
+### 📊 Professional Impact & Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-pushpkar&layout=compact&theme=vision-friendly-dark&hide_border=false" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryansh-pushpkar&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-pushpkar&theme=vision-friendly-dark&hide_border=false" alt="Suryansh's Streak" />
+</p>
 
 ---
-<p align="right">
-  <i>"Writing clean, maintainable code that solves real-world problems."</i>
+
+### ⚡ Current Sprint Focus
+- 🏗️ **Backend:** Scaling Microservices architectures for enterprise clients.
+- 🧪 **Quality:** Implementing Test-Driven Development (TDD) with JUnit/Mockito.
+- 🤖 **Innovation:** Exploring **Spring AI** integration for automated workflows.
+
+---
+
+### 🌐 Digital Presence
+<p align="left">
+<a href="mailto:your-work-email@webkorps.com"><img src="https://img.shields.io/badge/Work%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suryansh-pushpkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Suryansh2602"><img src="https://img.shields.io/badge/Personal%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>

@@ -24,12 +24,17 @@
 
 ---
 
-### 📈 Professional Impact (Fixed Stats)
+### 📈 Professional Impact 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryansh-pushpkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-pushpkar&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryansh-pushpkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  
+  <img height="180em" src="https://github-v-stats.vercel.app/api?username=suryansh-pushpkar&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/suryansh-pushpkar?style=for-the-badge&label=Monthly%20Commits&color=0052CC" />
+  <img src="https://img.shields.io/github/repo-size/suryansh-pushpkar/suryansh-pushpkar?style=for-the-badge&label=Profile%20Size&color=0052CC" />
+</p>
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-pushpkar&theme=tokyonight" alt="Suryansh's Streak" />
 </p>

@@ -1,16 +1,34 @@
-## Hi there 👋
+# Suryansh Pushpkar | Associate Software Engineer @ Webkorps 🏢
 
-<!--
-**suryansh-pushpkar/suryansh-pushpkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active%20Contributor-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Indore%2C%20India-orange?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Professional Expertise
+I am focused on building scalable, high-performance backend systems and enterprise-grade applications. Currently, my work revolves around the **Java Ecosystem** and **Modern Web Architectures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java (Core & Advanced), TypeScript, SQL
+- **Frameworks:** Spring Boot, Microservices, Spring Security, React.js
+- **Tools & Infrastructure:** Docker, Git, MySQL, Maven
+- **Core Competencies:** RESTful API Design, Database Optimization, System Architecture
+
+---
+
+### 📈 Work Contribution Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryansh-pushpkar&show_icons=true&theme=transparent&border_color=333&text_color=555" />
+</p>
+
+---
+
+### 🤝 Collaboration
+- 📬 **Work Email:** [Your-Work-Email]@webkorps.com
+- 🕒 **Active Hours:** 10:00 AM – 7:00 PM (IST)
+- 🔗 **Personal Portfolio:** [Suryansh2602](https://github.com/Suryansh2602)
+
+---
+<p align="right">
+  <i>"Writing clean, maintainable code that solves real-world problems."</i>
+</p>
